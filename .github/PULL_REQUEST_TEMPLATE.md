@@ -10,6 +10,7 @@
 <!-- 一句话说明白 -->
 
 * trello 任务地址
+* [github issue 链接](https://github.com/guopiinc/guopi_workspace/issues/###)
 
 ## 相关 PR 链接
 
