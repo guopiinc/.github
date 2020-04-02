@@ -10,7 +10,13 @@
 <!-- 一句话说明白 -->
 
 * trello 任务地址
-* [github issue 链接](https://github.com/guopiinc/guopi_workspace/issues/###)
+<!-- 
+Github Issue 地址
+因为 issue 在 guopi_workspace 仓库, 需使用 github 支持的格式进行外链. 在 PR 合并 master 时, 会自动关闭链接的 issue
+参考 https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
+语法为: fixed guopiinc/guopi_workspace#ISSUE_NUMBER
+-->
+* Fixed guopiinc/guopi_workspace#19
 
 ## 相关 PR 链接
 
