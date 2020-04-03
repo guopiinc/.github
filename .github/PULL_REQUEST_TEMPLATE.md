@@ -16,7 +16,7 @@ Github Issue 地址
 参考 https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword
 语法为: fixed guopiinc/guopi_workspace#ISSUE_NUMBER
 -->
-* Fixed guopiinc/guopi_workspace#19
+* Fixed guopiinc/guopi_workspace#ISSUE_NUMBER
 
 ## 相关 PR 链接
 
